@@ -2,7 +2,8 @@
 
 The Biopython module provides a function set for parsing DNA, RNA, Protein sequences from file, and performing a wide range of manipulations on a given sequence.
 > [Biopython](https://biopython.org/) is a set of freely available tools for biological computation written in Python by an international team of developers.
-Biopy represents a sequence as a `SeqRecord` [object](https://biopython.org/wiki/SeqRecord). Relevant properties:
+Biopy represents a sequence as a `SeqRecord` [object](https://biopython.org/wiki/SeqRecord).
+Relevant properties:
 >`[..., 'annotations', 'dbxrefs', 'description', 'features', 'format', 'id', 'letter_annotations', 'name', 'seq']`
 
 BioPy has a number of other modules
