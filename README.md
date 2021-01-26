@@ -21,7 +21,7 @@ a Tensorflow model could interpret.
 
 The stable model does work, although I switched to using the catagorical crossentropy loss function (full disclosure the math explanations for this, adam, etc.
 are beyond me, I just pick different ones for effect) and it starts at  ~4 and is then flirting with .6 after running just the three virus/vaccine pairs
-I initially gathered. This seems on it's face way too good to be true, even with this  
+I initially gathered. This seems on it's face way too good to be true, even if i'm maxing out the   
 
 >  _In bioinformatics, a sequence alignment is a way of arranging the sequences of DNA, RNA, or protein
 > to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between the sequences._
